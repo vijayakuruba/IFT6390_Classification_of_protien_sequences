@@ -9,7 +9,7 @@ In this project, we use different Data cleaning strategies, Imputation technique
 
 
 
-1.   Exploratory data analysis : We have studied the data pattern.
+1.   Exploratory data analysis 
 2.   Based on data analysis we found 2 challenges:
 *   Imbalanced dataset: No of non-AMPs are more way higher than AMP. 
 *   the distribution of the sequence lengths varies a lot between the two classes.
