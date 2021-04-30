@@ -1,7 +1,10 @@
 # IFT6390_Text-Generation
 
 Final year project for IFT 6390- Fundamentals of Machine learning
-Team Members: Kuruba Vijaya Lakshmi Saadaoui Houda Binulal Narayanan
+Team Members: \
+Kuruba Vijaya Lakshmi \
+Saadaoui Houda \
+Binulal Narayanan
 
 In this project, we use different Data cleaning strategies, Imputation techniques and Machine Learning models to classify protein sequences as AMP or non-AMP.
 
