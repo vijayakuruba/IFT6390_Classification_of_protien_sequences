@@ -28,3 +28,7 @@ In this project, we use different Data cleaning strategies, Imputation technique
 *   4. SVM Classifier + No Sampling +Cost penalised+ Original dataset 
 *   5. Neural networks + Dataset 3 
 6.   Results
+
+This repositary has 2 colab files. 
+1. IFT_6390_Final_Project_1_.ipynb  - It contains Models option1 - option 5
+2. IFT_6390_Final_Project_1_supp.ipynb  - It contains different data strategy (data split on different ratios) modelled with Random forest
